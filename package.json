@@ -1,0 +1,11 @@
+{
+  "name": "vue-transfer-dom",
+  "version": "1.0.0",
+  "description": "Transfer DOM to another place",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rhyzix@gmail.com",
+  "license": "MIT"
+}
