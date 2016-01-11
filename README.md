@@ -1,4 +1,6 @@
 # vue-transfer-dom
+> requires Vue v1.0.14+
+
 Transfer DOM to another place (eg. `<body>`).
 
 Useful in some situations such as z-index management, see discussion [here](https://github.com/vuejs/vue/issues/2130).
