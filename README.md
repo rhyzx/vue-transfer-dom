@@ -10,6 +10,11 @@ Useful in some situations such as z-index management, see discussion [here](http
 http://jsfiddle.net/rhyzx/br5cepu3/
 
 
+## Installation
+```sh
+npm install vue-transfer-dom
+```
+
 ## Usage
 
 ```js
