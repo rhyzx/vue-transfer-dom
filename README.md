@@ -1,5 +1,5 @@
 # vue-transfer-dom
-> requires Vue v1.0.14+
+> requires Vue v1.0.19+
 
 Transfer DOM to another place (eg. `<body>`).
 

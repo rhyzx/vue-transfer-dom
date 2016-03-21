@@ -17,9 +17,9 @@ var remove = Vue.util.remove
 var createAnchor = Vue.util.createAnchor
 
 // register as terminal directive
-Vue.compiler.terminalDirectives.push(name)
 Vue.directive(name, {
   priority: 2000,
+  terminal: true,
   bind: function () {
     var el = this.el
     if (!el.__vue__) {
